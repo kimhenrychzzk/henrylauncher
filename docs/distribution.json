@@ -1179,17 +1179,6 @@
             "MD5": "9378f7cef65c5208431350700cf83a11",
             "path": "config/yacl.json5"
           }
-        },
-        {
-          "id": "BSL_v10.0.zip",
-          "name": "BSL_v10.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1121678,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/BSL_v10.0.zip",
-            "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
-            "path": "shaderpacks/BSL_v10.0.zip"
-          }
         }
       ]
     }
