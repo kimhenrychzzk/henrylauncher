@@ -135,8 +135,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80866,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/chat_heads-0.14.2-fabric-1.21.jar",
+            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/optionalon/chat_heads-0.14.2-fabric-1.21.jar",
             "MD5": "f358aca9f78f7938ee81581ce62a0ff9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -250,16 +253,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:ferritecore:7.0.2-hotfix@jar",
-          "name": "FerriteCore",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 120709,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/ferritecore-7.0.2-hotfix-fabric.jar",
-            "MD5": "6d381efd51de1cbbdb8070d346f32555"
-          }
-        },
-        {
           "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.6@jar",
           "name": "Forge Config API Port",
           "type": "FabricMod",
@@ -285,8 +278,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2690177,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
+            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -355,28 +351,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 973066,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
+            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/optionalon/modmenu-11.0.3.jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
-          }
-        },
-        {
-          "id": "multiworld:multiworld-bundle:1.10@jar",
-          "name": "Multiworld-bundle",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 733917,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/Multiworld-Fabric-bundle.jar",
-            "MD5": "8bb29951478d6300514a8a1c7c4d4f66"
-          }
-        },
-        {
-          "id": "dev.qixils.ssi:scoreboard-stats-import:1.0.1@jar",
-          "name": "Scoreboard Stats Import",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 14036,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/scoreboard-stats-import-1.0.2.jar",
-            "MD5": "9480dbc924156a1cf365a1230a43eb26"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -385,8 +364,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1297761,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -395,8 +377,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3191888,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/SubtleEffects-fabric-1.21.1-1.13.2-hotfix.1.jar",
+            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/optionalon/SubtleEffects-fabric-1.21.1-1.13.2-hotfix.1.jar",
             "MD5": "3edb443491052698aad38c572f15a2fb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
