@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1944103,
             "MD5": "eee78db537e19297a4a5966bdad51291",
-            "url": "http://localhost/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/fabric-loader-0.18.1.jar"
           },
           "subModules": [
             {
