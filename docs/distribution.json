@@ -25,7 +25,7 @@
           "artifact": {
             "size": 1944103,
             "MD5": "eee78db537e19297a4a5966bdad51291",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
           },
           "subModules": [
             {
@@ -35,7 +35,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "fe1ad875545674a73091457e92c1510e",
-                "url": "http://localhost:8080/repo/versions/1.21.1-fabric-0.18.1/1.21.1-fabric-0.18.1.json"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/versions/1.21.1-fabric-0.18.1/1.21.1-fabric-0.18.1.json"
               }
             },
             {
@@ -45,7 +45,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -55,7 +55,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -65,7 +65,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -75,7 +75,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -85,7 +85,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -95,7 +95,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -105,7 +105,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
@@ -116,7 +116,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 600915,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
             "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
           }
         },
@@ -126,7 +126,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 763363,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.55.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.55.jar",
             "MD5": "af336b8ba725167e4cb7b40db9a0f58c"
           }
         },
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80866,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/chat_heads-0.14.2-fabric-1.21.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/chat_heads-0.14.2-fabric-1.21.jar",
             "MD5": "f358aca9f78f7938ee81581ce62a0ff9"
           },
           "required": {
@@ -149,7 +149,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1157166,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           }
         },
@@ -159,7 +159,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 645301,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/easy_npc_config_ui-fabric-1.21.1-6.1.2.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/easy_npc_config_ui-fabric-1.21.1-6.1.2.jar",
             "MD5": "792563db9f67f76a8494c93127e96c40"
           }
         },
@@ -169,7 +169,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1630522,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/easy_npc-fabric-1.21.1-5.9.0.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/easy_npc-fabric-1.21.1-5.9.0.jar",
             "MD5": "9fadf378d730b993ef7e58e7c61f96f6"
           }
         },
@@ -179,7 +179,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1552450,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/easy_npc-fabric-1.21.1-6.1.0.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/easy_npc-fabric-1.21.1-6.1.0.jar",
             "MD5": "a9b4072f3adcad622cbb6cd9267911d8"
           }
         },
@@ -189,7 +189,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1025303,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/emi-1.1.22+1.21.1+fabric.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/emi-1.1.22+1.21.1+fabric.jar",
             "MD5": "120109cc4661ad8e49713801b90e942c"
           }
         },
@@ -199,7 +199,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 23809,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.3.jar",
             "MD5": "2f304b78f44889938771a9dfaf87c829"
           }
         },
@@ -209,7 +209,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 475401,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/entity_model_features_1.21-fabric-3.0.7.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/entity_model_features_1.21-fabric-3.0.7.jar",
             "MD5": "b0b5d45f4b8e3a4c9b14f2e4e657f4dc"
           }
         },
@@ -219,7 +219,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 754004,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/entity_texture_features_1.21-fabric-7.0.6.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/entity_texture_features_1.21-fabric-7.0.6.jar",
             "MD5": "cd75ec9679ae393c9bccf63eb703ec46"
           }
         },
@@ -229,7 +229,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1559420,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/entityculling-fabric-1.9.4-mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/entityculling-fabric-1.9.4-mc1.21.1.jar",
             "MD5": "d3837df627f0ca89b809beb1cb99dbc8"
           }
         },
@@ -239,7 +239,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2424884,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
             "MD5": "6d844b1f5a6f67395912e81043ae3aed"
           }
         },
@@ -249,7 +249,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7479608,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
             "MD5": "89a977d6a4d7a84b8390f9143dd689f7"
           }
         },
@@ -259,7 +259,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 633065,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
             "MD5": "eba1a7f9d9976e983a2b9eb5e915e087"
           }
         },
@@ -269,7 +269,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2297886,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/fzzy_config-0.7.3+1.21.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/fzzy_config-0.7.3+1.21.jar",
             "MD5": "0c601ccee412a5f8c7c3353f2ce65359"
           }
         },
@@ -279,7 +279,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2690177,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
           },
           "required": {
@@ -292,7 +292,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125915,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/jobsaddon-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/jobsaddon-1.2.2.jar",
             "MD5": "4ef43485f92a55e8b308509a195d85ce"
           }
         },
@@ -302,7 +302,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 161045,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/krypton-0.2.8.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/krypton-0.2.8.jar",
             "MD5": "9ba3d734dac0e59deb4721f2f23c65ad"
           }
         },
@@ -312,7 +312,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 316870,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/levelz-2.0.6.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/levelz-2.0.6.jar",
             "MD5": "a2ce1de44f00cd9fd97f5e438036bd4a"
           }
         },
@@ -322,7 +322,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2100103,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/libz-1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/libz-1.0.3.jar",
             "MD5": "6a9df3e5db9eac220a32ddb95af48997"
           }
         },
@@ -332,7 +332,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1574861,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/LuckPerms-Fabric-5.4.140.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/LuckPerms-Fabric-5.4.140.jar",
             "MD5": "bf65dccc5ad31cd8384d94eb9500d4af"
           }
         },
@@ -342,7 +342,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 471258,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/modernfix-fabric-5.25.1+mc1.21.1.jar",
             "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
           }
         },
@@ -352,7 +352,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 973066,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/modmenu-11.0.3.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/modmenu-11.0.3.jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
           },
           "required": {
@@ -365,7 +365,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1297761,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
           },
           "required": {
@@ -378,7 +378,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3191888,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/SubtleEffects-fabric-1.21.1-1.13.2-hotfix.1.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/SubtleEffects-fabric-1.21.1-1.13.2-hotfix.1.jar",
             "MD5": "3edb443491052698aad38c572f15a2fb"
           },
           "required": {
@@ -391,7 +391,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5339701,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/voicechat-fabric-1.21.1-2.6.7.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/voicechat-fabric-1.21.1-2.6.7.jar",
             "MD5": "f59d788478dfa507881f255ab0a1f3a7"
           },
           "required": {
@@ -404,7 +404,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 886838,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/waystones-fabric-1.21.1-21.1.24.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/waystones-fabric-1.21.1-21.1.24.jar",
             "MD5": "6963aee6d4475ffb7101c467990834e3"
           }
         },
@@ -414,7 +414,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1745107,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
             "MD5": "73c845d833c030f1b38363b5d4252ff7"
           },
           "required": {
@@ -427,7 +427,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 976417,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/optionalon/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
             "MD5": "f88bd9beac4d18a02e4c9e7a5ad8c212"
           },
           "required": {
@@ -440,7 +440,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1131541,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
             "MD5": "82e0aa325a523da33b643dcbbd42d1e6"
           }
         },
@@ -450,7 +450,7 @@
           "type": "File",
           "artifact": {
             "size": 207,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/chat_heads.json5",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/chat_heads.json5",
             "MD5": "95907776cd681dd4b584741aa8cccdd2",
             "path": "config/chat_heads.json5"
           }
@@ -461,7 +461,7 @@
           "type": "File",
           "artifact": {
             "size": 33747,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/render_entity_type_support.cfg",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/render_entity_type_support.cfg",
             "MD5": "246b6cb3f07fb73b5e2f310ca86cbf9e",
             "path": "config/easy_npc/render_entity_type_support.cfg"
           }
@@ -472,7 +472,7 @@
           "type": "File",
           "artifact": {
             "size": 246,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/allay/allay_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/allay/allay_template.png",
             "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
             "path": "config/easy_npc/skin/allay/allay_template.png"
           }
@@ -483,7 +483,7 @@
           "type": "File",
           "artifact": {
             "size": 283,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/cat/cat_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/cat/cat_template.png",
             "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
             "path": "config/easy_npc/skin/cat/cat_template.png"
           }
@@ -494,7 +494,7 @@
           "type": "File",
           "artifact": {
             "size": 287,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/chicken/chicken_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/chicken/chicken_template.png",
             "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
             "path": "config/easy_npc/skin/chicken/chicken_template.png"
           }
@@ -505,7 +505,7 @@
           "type": "File",
           "artifact": {
             "size": 255,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/creeper/creeper_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/creeper/creeper_template.png",
             "MD5": "460afd5ae6039e184859666d02797e9d",
             "path": "config/easy_npc/skin/creeper/creeper_template.png"
           }
@@ -516,7 +516,7 @@
           "type": "File",
           "artifact": {
             "size": 276,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/ender_man/ender_man_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/ender_man/ender_man_template.png",
             "MD5": "11a98be328121d89396fa59e1aa29df2",
             "path": "config/easy_npc/skin/ender_man/ender_man_template.png"
           }
@@ -527,7 +527,7 @@
           "type": "File",
           "artifact": {
             "size": 434,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/fairy/fairy_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/fairy/fairy_template.png",
             "MD5": "531b238034eb6fdcf494378d6de62d69",
             "path": "config/easy_npc/skin/fairy/fairy_template.png"
           }
@@ -538,7 +538,7 @@
           "type": "File",
           "artifact": {
             "size": 335,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/fox/fox_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/fox/fox_template.png",
             "MD5": "5850512e21b0c58b42207510a63a923d",
             "path": "config/easy_npc/skin/fox/fox_template.png"
           }
@@ -549,7 +549,7 @@
           "type": "File",
           "artifact": {
             "size": 360,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/humanoid/humanoid_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/humanoid/humanoid_template.png",
             "MD5": "a39224182358dcbf6615b9faeb732933",
             "path": "config/easy_npc/skin/humanoid/humanoid_template.png"
           }
@@ -560,7 +560,7 @@
           "type": "File",
           "artifact": {
             "size": 384,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
             "MD5": "41f831333d68c3a4535adbe574f0511c",
             "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
           }
@@ -571,7 +571,7 @@
           "type": "File",
           "artifact": {
             "size": 531,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/husk/husk_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/husk/husk_template.png",
             "MD5": "66e672cdead5768165586f4b24c1f61c",
             "path": "config/easy_npc/skin/husk/husk_template.png"
           }
@@ -582,7 +582,7 @@
           "type": "File",
           "artifact": {
             "size": 300,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/illager/illager_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/illager/illager_template.png",
             "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
             "path": "config/easy_npc/skin/illager/illager_template.png"
           }
@@ -593,7 +593,7 @@
           "type": "File",
           "artifact": {
             "size": 451,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/iron_golem/iron_golem_template.png",
             "MD5": "041e19a3a9e328e569c1572c60bf7f82",
             "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png"
           }
@@ -604,7 +604,7 @@
           "type": "File",
           "artifact": {
             "size": 521,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/orc/orc_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/orc/orc_template.png",
             "MD5": "529d5d314ad4dc8f697f7341f35cab74",
             "path": "config/easy_npc/skin/orc/orc_template.png"
           }
@@ -615,7 +615,7 @@
           "type": "File",
           "artifact": {
             "size": 270,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/pig/pig_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/pig/pig_template.png",
             "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
             "path": "config/easy_npc/skin/pig/pig_template.png"
           }
@@ -626,7 +626,7 @@
           "type": "File",
           "artifact": {
             "size": 361,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/piglin/piglin_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/piglin/piglin_template.png",
             "MD5": "54ae451400c57b4832f976487e7bf629",
             "path": "config/easy_npc/skin/piglin/piglin_template.png"
           }
@@ -637,7 +637,7 @@
           "type": "File",
           "artifact": {
             "size": 259,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/skeleton/skeleton_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/skeleton/skeleton_template.png",
             "MD5": "b6f689ff48f8cd4b03a51947133a3857",
             "path": "config/easy_npc/skin/skeleton/skeleton_template.png"
           }
@@ -648,7 +648,7 @@
           "type": "File",
           "artifact": {
             "size": 308,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/spider/spider_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/spider/spider_template.png",
             "MD5": "03664e96aea4f091f754f2b853f2b853",
             "path": "config/easy_npc/skin/spider/spider_template.png"
           }
@@ -659,7 +659,7 @@
           "type": "File",
           "artifact": {
             "size": 531,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/stray/stray_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/stray/stray_template.png",
             "MD5": "66e672cdead5768165586f4b24c1f61c",
             "path": "config/easy_npc/skin/stray/stray_template.png"
           }
@@ -670,7 +670,7 @@
           "type": "File",
           "artifact": {
             "size": 247,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/vex/vex_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/vex/vex_template.png",
             "MD5": "37f6d362729979569dd8f1f4e6429f07",
             "path": "config/easy_npc/skin/vex/vex_template.png"
           }
@@ -681,7 +681,7 @@
           "type": "File",
           "artifact": {
             "size": 357,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/villager/villager_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/villager/villager_template.png",
             "MD5": "30e84778924e6c66aef598b8a3cd728a",
             "path": "config/easy_npc/skin/villager/villager_template.png"
           }
@@ -692,7 +692,7 @@
           "type": "File",
           "artifact": {
             "size": 331,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/villager/villager_without_hat_template.png",
             "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
             "path": "config/easy_npc/skin/villager/villager_without_hat_template.png"
           }
@@ -703,7 +703,7 @@
           "type": "File",
           "artifact": {
             "size": 431,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/witch/witch_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/witch/witch_template.png",
             "MD5": "3f15cb59a845607aca5614bd12e9df62",
             "path": "config/easy_npc/skin/witch/witch_template.png"
           }
@@ -714,7 +714,7 @@
           "type": "File",
           "artifact": {
             "size": 321,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/wolf/wolf_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/wolf/wolf_template.png",
             "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
             "path": "config/easy_npc/skin/wolf/wolf_template.png"
           }
@@ -725,7 +725,7 @@
           "type": "File",
           "artifact": {
             "size": 292,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/zombie/zombie_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/zombie/zombie_template.png",
             "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
             "path": "config/easy_npc/skin/zombie/zombie_template.png"
           }
@@ -736,7 +736,7 @@
           "type": "File",
           "artifact": {
             "size": 356,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
             "MD5": "b0748467bd2149105ad4d922c7799ed0",
             "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
           }
@@ -747,7 +747,7 @@
           "type": "File",
           "artifact": {
             "size": 963,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/spawner_type.cfg",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/spawner_type.cfg",
             "MD5": "63d1ae263d360758704f61ab5ae20d17",
             "path": "config/easy_npc/spawner_type.cfg"
           }
@@ -758,7 +758,7 @@
           "type": "File",
           "artifact": {
             "size": 465,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/easy_npc/user_defined_npcs.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/easy_npc/user_defined_npcs.json",
             "MD5": "d82b4dd015a0cde1b54fb7055bc7f6fb",
             "path": "config/easy_npc/user_defined_npcs.json"
           }
@@ -769,7 +769,7 @@
           "type": "File",
           "artifact": {
             "size": 10180,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/emi.css",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/emi.css",
             "MD5": "116ef576d1f0332b047d7a8c4c31d06c",
             "path": "config/emi.css"
           }
@@ -780,7 +780,7 @@
           "type": "File",
           "artifact": {
             "size": 1865,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/entityculling.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/entityculling.json",
             "MD5": "31f63f9939fbf5fecdcfbd2297d44f30",
             "path": "config/entityculling.json"
           }
@@ -791,7 +791,7 @@
           "type": "File",
           "artifact": {
             "size": 1000,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/entity_model_features.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/entity_model_features.json",
             "MD5": "e55bb849b0f86e7aee7edc8241eb346c",
             "path": "config/entity_model_features.json"
           }
@@ -802,7 +802,7 @@
           "type": "File",
           "artifact": {
             "size": 1420,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/entity_texture_features.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/entity_texture_features.json",
             "MD5": "70bc0a7c3e75a25a9049facdc3a0a7ea",
             "path": "config/entity_texture_features.json"
           }
@@ -813,7 +813,7 @@
           "type": "File",
           "artifact": {
             "size": 28,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/etf_warnings.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/etf_warnings.json",
             "MD5": "b49b5603d2df29fa132f89ec91974572",
             "path": "config/etf_warnings.json"
           }
@@ -824,7 +824,7 @@
           "type": "File",
           "artifact": {
             "size": 290,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/fabric/indigo-renderer.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/fabric/indigo-renderer.properties",
             "MD5": "14d9bb8f45ee8d8c002d398e96a61cd4",
             "path": "config/fabric/indigo-renderer.properties"
           }
@@ -835,7 +835,7 @@
           "type": "File",
           "artifact": {
             "size": 1525,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/ferritecore.mixin.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/ferritecore.mixin.properties",
             "MD5": "bf3e6be63e300b0290cfc849beb64ede",
             "path": "config/ferritecore.mixin.properties"
           }
@@ -846,7 +846,7 @@
           "type": "File",
           "artifact": {
             "size": 523,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/forgeconfigapiport.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/forgeconfigapiport.toml",
             "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
             "path": "config/forgeconfigapiport.toml"
           }
@@ -857,7 +857,7 @@
           "type": "File",
           "artifact": {
             "size": 6403,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/fzzy_config/keybinds.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/fzzy_config/keybinds.toml",
             "MD5": "db29914636f6e1455464345f8e91d353",
             "path": "config/fzzy_config/keybinds.toml"
           }
@@ -868,7 +868,7 @@
           "type": "File",
           "artifact": {
             "size": 31,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/iris-excluded.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/iris-excluded.json",
             "MD5": "670592b1394f12ab96d8432f14ac8dd9",
             "path": "config/iris-excluded.json"
           }
@@ -879,7 +879,7 @@
           "type": "File",
           "artifact": {
             "size": 281,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/iris.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/iris.properties",
             "MD5": "341e0d0c476093a713821defd4b712b7",
             "path": "config/iris.properties"
           }
@@ -890,7 +890,7 @@
           "type": "File",
           "artifact": {
             "size": 580,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/jobsaddon.json5",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/jobsaddon.json5",
             "MD5": "b9f4abf54e4f960346ac65f9654a37cf",
             "path": "config/jobsaddon.json5"
           }
@@ -901,7 +901,7 @@
           "type": "File",
           "artifact": {
             "size": 3970,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/levelz.json5",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/levelz.json5",
             "MD5": "e1df464f2077163165d7039af0dafeec",
             "path": "config/levelz.json5"
           }
@@ -912,7 +912,7 @@
           "type": "File",
           "artifact": {
             "size": 73,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/libz.json5",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/libz.json5",
             "MD5": "f81b1bbe278078c0e11206827e9bec9a",
             "path": "config/libz.json5"
           }
@@ -923,7 +923,7 @@
           "type": "File",
           "artifact": {
             "size": 4087,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/modernfix-mixins.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/modernfix-mixins.properties",
             "MD5": "259d280fb63195be3a723ef3754dacf2",
             "path": "config/modernfix-mixins.properties"
           }
@@ -934,7 +934,7 @@
           "type": "File",
           "artifact": {
             "size": 840,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/modmenu.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/modmenu.json",
             "MD5": "6f801fc101c146e1c993f05544858c34",
             "path": "config/modmenu.json"
           }
@@ -945,7 +945,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/sodium-fingerprint.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-fingerprint.json",
             "MD5": "3766625687ef396cf99cd71ad4988aa5",
             "path": "config/sodium-fingerprint.json"
           }
@@ -956,7 +956,7 @@
           "type": "File",
           "artifact": {
             "size": 258,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/sodium-mixins.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-mixins.properties",
             "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
             "path": "config/sodium-mixins.properties"
           }
@@ -967,7 +967,7 @@
           "type": "File",
           "artifact": {
             "size": 686,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/sodium-options.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-options.json",
             "MD5": "263174dc942d3e5438bb65bce9108488",
             "path": "config/sodium-options.json"
           }
@@ -978,7 +978,7 @@
           "type": "File",
           "artifact": {
             "size": 3968,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/subtle_effects/blocks.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/subtle_effects/blocks.toml",
             "MD5": "65f0f54da477da1741f1b1678c8aec79",
             "path": "config/subtle_effects/blocks.toml"
           }
@@ -989,7 +989,7 @@
           "type": "File",
           "artifact": {
             "size": 3058,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/subtle_effects/entities.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/subtle_effects/entities.toml",
             "MD5": "0b388b851ee84f1803990cbe60d8cf48",
             "path": "config/subtle_effects/entities.toml"
           }
@@ -1000,7 +1000,7 @@
           "type": "File",
           "artifact": {
             "size": 2523,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/subtle_effects/environment.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/subtle_effects/environment.toml",
             "MD5": "0ad28c4b493ab03c00317c120cb50d96",
             "path": "config/subtle_effects/environment.toml"
           }
@@ -1011,7 +1011,7 @@
           "type": "File",
           "artifact": {
             "size": 1074,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/subtle_effects/general.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/subtle_effects/general.toml",
             "MD5": "2195c99ea3e5c0039f4829d889518e46",
             "path": "config/subtle_effects/general.toml"
           }
@@ -1022,7 +1022,7 @@
           "type": "File",
           "artifact": {
             "size": 992,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/subtle_effects/items.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/subtle_effects/items.toml",
             "MD5": "2561d5160aa377a799f79b9811ca5c18",
             "path": "config/subtle_effects/items.toml"
           }
@@ -1033,7 +1033,7 @@
           "type": "File",
           "artifact": {
             "size": 62,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/transition.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/transition.json",
             "MD5": "939cbb1d75f242d47e2aa1a9d536a3e7",
             "path": "config/transition.json"
           }
@@ -1044,7 +1044,7 @@
           "type": "File",
           "artifact": {
             "size": 47,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/trender.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/trender.json",
             "MD5": "c449ad0a8d190858ec253ed1bc75e05d",
             "path": "config/trender.json"
           }
@@ -1055,7 +1055,7 @@
           "type": "File",
           "artifact": {
             "size": 46,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/voicechat/category-volumes.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/category-volumes.properties",
             "MD5": "47731f53ffef4a8a57c766a8091a5651",
             "path": "config/voicechat/category-volumes.properties"
           }
@@ -1066,7 +1066,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/voicechat/player-volumes.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/player-volumes.properties",
             "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
             "path": "config/voicechat/player-volumes.properties"
           }
@@ -1077,7 +1077,7 @@
           "type": "File",
           "artifact": {
             "size": 1182,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/voicechat/translations.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/translations.properties",
             "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
             "path": "config/voicechat/translations.properties"
           }
@@ -1088,7 +1088,7 @@
           "type": "File",
           "artifact": {
             "size": 2,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/voicechat/username-cache.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/username-cache.json",
             "MD5": "99914b932bd37a50b983c5e7c90ae93b",
             "path": "config/voicechat/username-cache.json"
           }
@@ -1099,7 +1099,7 @@
           "type": "File",
           "artifact": {
             "size": 4898,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-client.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-client.properties",
             "MD5": "61ec73e7b06fde187c13ba02c4a96447",
             "path": "config/voicechat/voicechat-client.properties"
           }
@@ -1110,7 +1110,7 @@
           "type": "File",
           "artifact": {
             "size": 2441,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-server.properties",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-server.properties",
             "MD5": "34cf3bd4742d3f77aa52d69b189b3462",
             "path": "config/voicechat/voicechat-server.properties"
           }
@@ -1121,7 +1121,7 @@
           "type": "File",
           "artifact": {
             "size": 5147,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/waystones-common.toml",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/waystones-common.toml",
             "MD5": "e4f094bdee383c3aed1af8a2fe098423",
             "path": "config/waystones-common.toml"
           }
@@ -1132,7 +1132,7 @@
           "type": "File",
           "artifact": {
             "size": 145,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/xaerominimap-common.txt",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaerominimap-common.txt",
             "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
             "path": "config/xaerominimap-common.txt"
           }
@@ -1143,7 +1143,7 @@
           "type": "File",
           "artifact": {
             "size": 3640,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/xaerominimap.txt",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaerominimap.txt",
             "MD5": "34daf6ed281f10d3aa9d1f916c51d7dc",
             "path": "config/xaerominimap.txt"
           }
@@ -1154,7 +1154,7 @@
           "type": "File",
           "artifact": {
             "size": 5531,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/xaerominimap_entities.json",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaerominimap_entities.json",
             "MD5": "9c08ddf57ca870f128b7671da8fbd0f7",
             "path": "config/xaerominimap_entities.json"
           }
@@ -1165,7 +1165,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/xaeropatreon.txt",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaeropatreon.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/xaeropatreon.txt"
           }
@@ -1176,7 +1176,7 @@
           "type": "File",
           "artifact": {
             "size": 120,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/xaeroworldmap-common.txt",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaeroworldmap-common.txt",
             "MD5": "5a2200d083554257d61384f2c486162b",
             "path": "config/xaeroworldmap-common.txt"
           }
@@ -1187,7 +1187,7 @@
           "type": "File",
           "artifact": {
             "size": 1218,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/xaeroworldmap.txt",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaeroworldmap.txt",
             "MD5": "61668053aa4dc58507cde11ed376502c",
             "path": "config/xaeroworldmap.txt"
           }
@@ -1198,7 +1198,7 @@
           "type": "File",
           "artifact": {
             "size": 250,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/config/yacl.json5",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/yacl.json5",
             "MD5": "9378f7cef65c5208431350700cf83a11",
             "path": "config/yacl.json5"
           }
@@ -1209,7 +1209,7 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "http://localhost:8080/servers/RPGsever-1.21.1/files/shaderpacks/BSL_v10.0.zip",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/shaderpacks/BSL_v10.0.zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0.zip"
           }
