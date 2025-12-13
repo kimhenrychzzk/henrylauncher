@@ -1186,7 +1186,7 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/shaderpacks/BSL_v10.0.zip",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/BSL_v10.0.zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0.zip"
           }
