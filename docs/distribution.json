@@ -1,5 +1,11 @@
 {
   "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
   "servers": [
     {
       "id": "RPGsever-1.21.1",
@@ -24,7 +30,7 @@
           "artifact": {
             "size": 1944103,
             "MD5": "eee78db537e19297a4a5966bdad51291",
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/docs/fabric-loader-0.18.1.jar"
+            "url": "http://localhost/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
           },
           "subModules": [
             {
@@ -33,7 +39,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2847,
-                "MD5": "1ec993c52fe01bb667a9a05ccaafb612",
+                "MD5": "fe1ad875545674a73091457e92c1510e",
                 "url": "http://localhost/repo/versions/1.21.1-fabric-0.18.1/1.21.1-fabric-0.18.1.json"
               }
             },
