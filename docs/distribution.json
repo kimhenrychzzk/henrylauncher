@@ -101,7 +101,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "http://localhost/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/lib/net/fabricmc/sponge-mixin/0.16.5%2Bmixin.0.8.7/sponge-mixin-0.16.5%2Bmixin.0.8.7.jar"
               }
             },
             {
@@ -111,7 +111,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "http://localhost/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
