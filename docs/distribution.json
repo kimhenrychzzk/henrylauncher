@@ -50,7 +50,8 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar
+                "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+
               }
             },
             {
