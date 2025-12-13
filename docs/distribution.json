@@ -476,7 +476,7 @@
           "artifact": {
             "size": 33747,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/easy_npc/render_entity_type_support.cfg",
-            "MD5": "25dcd5b4a650cea6ac52f2167ff03420",
+            "MD5": "246b6cb3f07fb73b5e2f310ca86cbf9e",
             "path": "config/easy_npc/render_entity_type_support.cfg"
           }
         },
@@ -762,7 +762,7 @@
           "artifact": {
             "size": 963,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/easy_npc/spawner_type.cfg",
-            "MD5": "392ef360d186170f144fbdd7a41891ec",
+            "MD5": "63d1ae263d360758704f61ab5ae20d17",
             "path": "config/easy_npc/spawner_type.cfg"
           }
         },
@@ -786,28 +786,6 @@
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/emi.css",
             "MD5": "116ef576d1f0332b047d7a8c4c31d06c",
             "path": "config/emi.css"
-          }
-        },
-        {
-          "id": "common.json",
-          "name": "common.json",
-          "type": "File",
-          "artifact": {
-            "size": 595,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/enclosure/common.json",
-            "MD5": "a506015a5e7d17697ef217766386413b",
-            "path": "config/enclosure/common.json"
-          }
-        },
-        {
-          "id": "limits.json",
-          "name": "limits.json",
-          "type": "File",
-          "artifact": {
-            "size": 200,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/enclosure/limits.json",
-            "MD5": "fdb17cc6913db82533a49b2e4b2d9089",
-            "path": "config/enclosure/limits.json"
           }
         },
         {
@@ -861,19 +839,8 @@
           "artifact": {
             "size": 290,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "dfa9e62324ffc6e086d76b4caa218b50",
+            "MD5": "1ff2bc11a8ff04a2b80ae9d916366e14",
             "path": "config/fabric/indigo-renderer.properties"
-          }
-        },
-        {
-          "id": "config.yml",
-          "name": "config.yml",
-          "type": "File",
-          "artifact": {
-            "size": 129,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/FabricEconomy/config.yml",
-            "MD5": "d45e9c11b10517f9cafbdaad13cf4c6c",
-            "path": "config/FabricEconomy/config.yml"
           }
         },
         {
@@ -885,28 +852,6 @@
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/ferritecore.mixin.properties",
             "MD5": "bf3e6be63e300b0290cfc849beb64ede",
             "path": "config/ferritecore.mixin.properties"
-          }
-        },
-        {
-          "id": "forgeconfigapiport.toml",
-          "name": "forgeconfigapiport.toml",
-          "type": "File",
-          "artifact": {
-            "size": 523,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/forgeconfigapiport.toml",
-            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
-            "path": "config/forgeconfigapiport.toml"
-          }
-        },
-        {
-          "id": "ftblibrary-client.snbt",
-          "name": "ftblibrary-client.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1435,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/ftblibrary-client.snbt",
-            "MD5": "bb903620b406e867a65fc4403b09b61c",
-            "path": "config/ftblibrary-client.snbt"
           }
         },
         {
@@ -936,9 +881,9 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 294,
+            "size": 281,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/iris.properties",
-            "MD5": "a0d4196c73bd59047f5259cc02d94aae",
+            "MD5": "7b935a345a60a426c382ce4ec621cdad",
             "path": "config/iris.properties"
           }
         },
@@ -1004,7 +949,7 @@
           "artifact": {
             "size": 427,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/sodium-fingerprint.json",
-            "MD5": "59957955a30ecc05f78e2ae8c7fc90f3",
+            "MD5": "3766625687ef396cf99cd71ad4988aa5",
             "path": "config/sodium-fingerprint.json"
           }
         },
@@ -1024,9 +969,9 @@
           "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "size": 685,
+            "size": 686,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/sodium-options.json",
-            "MD5": "aa01ef19d7217fbb88ed03f737384c66",
+            "MD5": "263174dc942d3e5438bb65bce9108488",
             "path": "config/sodium-options.json"
           }
         },
@@ -1108,17 +1053,6 @@
           }
         },
         {
-          "id": "config.json",
-          "name": "config.json",
-          "type": "File",
-          "artifact": {
-            "size": 382,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/vaultpatcher_asm/config.json",
-            "MD5": "1a6b7e67963541e880610a523d122341",
-            "path": "config/vaultpatcher_asm/config.json"
-          }
-        },
-        {
           "id": "category-volumes.properties",
           "name": "category-volumes.properties",
           "type": "File",
@@ -1152,24 +1086,13 @@
           }
         },
         {
-          "id": "username-cache.json",
-          "name": "username-cache.json",
-          "type": "File",
-          "artifact": {
-            "size": 2,
-            "url": "http://localhost/servers/RPGsever-1.21.1/files/config/voicechat/username-cache.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
-            "path": "config/voicechat/username-cache.json"
-          }
-        },
-        {
           "id": "voicechat-client.properties",
           "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "size": 4994,
+            "size": 4898,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-client.properties",
-            "MD5": "e280f295aca8c3ed2dfab4985bcca677",
+            "MD5": "61ec73e7b06fde187c13ba02c4a96447",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
@@ -1191,7 +1114,7 @@
           "artifact": {
             "size": 5147,
             "url": "http://localhost/servers/RPGsever-1.21.1/files/config/waystones-common.toml",
-            "MD5": "09b8155604e9312e5defab1d56381e95",
+            "MD5": "e4f094bdee383c3aed1af8a2fe098423",
             "path": "config/waystones-common.toml"
           }
         },
