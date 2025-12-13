@@ -230,16 +230,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:essential-container:1.0.0@jar",
-          "name": "Essential-container",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 55182304,
-            "url": "http://localhost/servers/RPGsever-1.21.1/fabricmods/required/Essential_1-3-10-4_fabric_1-21-1.jar",
-            "MD5": "f25878bb9fed4dbca2c802ff3424900b"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
