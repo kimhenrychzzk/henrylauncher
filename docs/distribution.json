@@ -1235,6 +1235,17 @@
           }
         },
         {
+          "id": "리소스팩.zip",
+          "name": "리소스팩.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1699483,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
+            "MD5": "8d935eea6be4cc0a10f8cbe33a75dfbb",
+            "path": "resourcepacks/리소스팩.zip"
+          }
+        },
+        {
           "id": "BSL_v10.0.zip",
           "name": "BSL_v10.0.zip",
           "type": "File",
