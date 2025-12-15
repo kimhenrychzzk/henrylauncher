@@ -154,6 +154,16 @@
           }
         },
         {
+          "id": "com.natamus:collective:8.13@jar",
+          "name": "Collective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 946726,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/collective-1.21.1-8.13.jar",
+            "MD5": "b454e160d38e5463f86b50ca82e9ef83"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc.configui:easy_npc_config_ui:6.1.2@jar",
           "name": "Easy NPC: Config UI",
           "type": "FabricMod",
@@ -463,6 +473,17 @@
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/chat_heads.json5",
             "MD5": "95907776cd681dd4b584741aa8cccdd2",
             "path": "config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
+          "artifact": {
+            "size": 827,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/collective.json5",
+            "MD5": "c1a6c344217a2164ca0db41f9d286d00",
+            "path": "config/collective.json5"
           }
         },
         {
@@ -888,9 +909,9 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 281,
+            "size": 546,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/iris.properties",
-            "MD5": "341e0d0c476093a713821defd4b712b7",
+            "MD5": "7b42687360b17117f284cfc8a9c990c7",
             "path": "config/iris.properties"
           }
         },
@@ -1108,9 +1129,9 @@
           "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "size": 4898,
+            "size": 1292,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-client.properties",
-            "MD5": "61ec73e7b06fde187c13ba02c4a96447",
+            "MD5": "841d356df94b45aa1d069ff589f24291",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
