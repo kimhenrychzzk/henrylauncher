@@ -264,6 +264,16 @@
           }
         },
         {
+          "id": "com.hisroyalty:gachamachine:1.1.1@jar",
+          "name": "Bloo's Gacha Machine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 444513,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/gachamachine-1.1.1.jar",
+            "MD5": "a376967ca91bdc89ea4da5e6efb09476"
+          }
+        },
+        {
           "id": "draylar.goml:goml:1.13.1+1.21@jar",
           "name": "Get Off My Lawn ReServed",
           "type": "FabricMod",
