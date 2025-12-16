@@ -10,7 +10,7 @@
     {
       "id": "RPGsever-1.21.1",
       "name": "⚔️ 헨리의 RPG 서버",
-      "description": "🌍 퀘스트, 보스, 클래스, 모험이 기다리는 헨리의 RPG 월드! (Fabric v0.18.1)",
+      "description": "🌍 퀘스트, 보스, 클래스, 모험이 기다리는 헨리의 RPG 월드!",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/assets/rpg-icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
