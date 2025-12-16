@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "RPGsever-1.21.1",
-      "name": "⚔️ 헨리의 RPG 서버",
+      "name": "⚔️ 헨리의 RPG 서버 (Minecraft 1.21.1)",
       "description": "🌍 퀘스트, 보스, 클래스, 모험이 기다리는 헨리의 RPG 월드! (Fabric v0.18.1)",
-      "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/rpg-icon.png",
+      "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/assets/rpg-icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
       "minecraftVersion": "1.21.1",
@@ -211,26 +211,6 @@
             "size": 23809,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.3.jar",
             "MD5": "2f304b78f44889938771a9dfaf87c829"
-          }
-        },
-        {
-          "id": "traben.entity_model_features:entity_model_features:3.0.7@jar",
-          "name": "Entity Model Features",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 475401,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/entity_model_features_1.21-fabric-3.0.7.jar",
-            "MD5": "b0b5d45f4b8e3a4c9b14f2e4e657f4dc"
-          }
-        },
-        {
-          "id": "traben.entity_texture_features:entity_texture_features:7.0.6@jar",
-          "name": "Entity Texture Features",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 754004,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/entity_texture_features_1.21-fabric-7.0.6.jar",
-            "MD5": "cd75ec9679ae393c9bccf63eb703ec46"
           }
         },
         {
