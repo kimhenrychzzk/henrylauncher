@@ -194,26 +194,6 @@
           }
         },
         {
-          "id": "dev.emi.emi.platform:emi:1.1.22+1.21.1+fabric@jar",
-          "name": "EMI",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1025303,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/emi-1.1.22+1.21.1+fabric.jar",
-            "MD5": "120109cc4661ad8e49713801b90e942c"
-          }
-        },
-        {
-          "id": "com.mrbysco:emiprofessions:1.0.3@jar",
-          "name": "EMI Professions ",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 23809,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/EMIProfessions-fabric-1.21.1-1.0.3.jar",
-            "MD5": "2f304b78f44889938771a9dfaf87c829"
-          }
-        },
-        {
           "id": "dev.tr7zw:entityculling:1.9.4@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
