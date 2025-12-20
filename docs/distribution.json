@@ -10,7 +10,7 @@
     {
       "id": "RPGsever-1.21.1",
       "name": "⚔️ 헨리의 RPG 서버",
-      "description": "🌍 퀘스트, 보스, 클래스, 모험이 기다리는 헨리의 RPG 월드!",
+      "description": "🌍 모험이 기다리는 헨리의 RPG 월드!",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/rpg-icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
@@ -221,6 +221,26 @@
           }
         },
         {
+          "id": "net.levelz:levelz:2.0.6@jar",
+          "name": "LevelZ",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 316870,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/levelz-2.0.6.jar",
+            "MD5": "a2ce1de44f00cd9fd97f5e438036bd4a"
+          }
+        },
+        {
+          "id": "net.libz:libz:1.0.3@jar",
+          "name": "LibZ",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2100103,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/libz-1.0.3.jar",
+            "MD5": "6a9df3e5db9eac220a32ddb95af48997"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:lithium:0.15.1+mc1.21.1@jar",
           "name": "Lithium",
           "type": "FabricMod",
@@ -248,6 +268,16 @@
             "size": 973066,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/modmenu-11.0.3%20(1).jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
+          }
+        },
+        {
+          "id": "com.robinsplaza:fishery:1.0.0@jar",
+          "name": "Fishery",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 52829,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/Robins-Fishery-Mod-Fabric-1.21.1.jar",
+            "MD5": "2de3e6ce411a959dc4cb9eb311ee2051"
           }
         },
         {
