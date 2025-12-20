@@ -271,16 +271,6 @@
           }
         },
         {
-          "id": "com.robinsplaza:fishery:1.0.0@jar",
-          "name": "Fishery",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 52829,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/Robins-Fishery-Mod-Fabric-1.21.1.jar",
-            "MD5": "2de3e6ce411a959dc4cb9eb311ee2051"
-          }
-        },
-        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
