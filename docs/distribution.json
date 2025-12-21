@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "RPGsever-1.21.1",
-      "name": "⚔️ 헨리의 RPG 서버",
-      "description": "🌍 퀘스트, 보스, 클래스, 모험이 기다리는 헨리의 RPG 월드!",
+      "name": "⚔️ TavernCraft",
+      "description": "🌍 모험이 기다리는 헨리의 TavernCraft!",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/rpg-icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
@@ -128,6 +128,16 @@
             "size": 600915,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
             "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
+          }
+        },
+        {
+          "id": "moe.plushie.armourers_workshop.init.platform.fabric.proxy:armourers_workshop:3.2.7-beta@jar",
+          "name": "Armourer's Workshop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6218149,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/armourersworkshop-fabric-1.21.1-3.2.7-beta.jar",
+            "MD5": "238d60d81a74538418ecc6de953c2139"
           }
         },
         {
