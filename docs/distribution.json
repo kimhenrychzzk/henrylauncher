@@ -291,6 +291,19 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.21.1-2.6.10@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5341121,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/voicechat-fabric-1.21.1-2.6.10.jar",
+            "MD5": "fac6e7c0c22374f526c73d6b8acbc64a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:25.2.10@jar",
           "name": "Xaero's Minimap",
           "type": "FabricMod",
@@ -327,6 +340,39 @@
           }
         },
         {
+          "id": "appleskin.json5",
+          "name": "appleskin.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1327,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/appleskin.json5",
+            "MD5": "406b4584562fb60304a8adc824de0000",
+            "path": "config/appleskin.json5"
+          }
+        },
+        {
+          "id": "armourers_workshop-client.toml",
+          "name": "armourers_workshop-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4887,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/armourers_workshop-client.toml",
+            "MD5": "6a2c8a41dcb1e7268440f42647814cdf",
+            "path": "config/armourers_workshop-client.toml"
+          }
+        },
+        {
+          "id": "armourers_workshop-common.toml",
+          "name": "armourers_workshop-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5650,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/armourers_workshop-common.toml",
+            "MD5": "2a660d2c5679c13e02f8a26f537f6461",
+            "path": "config/armourers_workshop-common.toml"
+          }
+        },
+        {
           "id": "collective.json5",
           "name": "collective.json5",
           "type": "File",
@@ -338,14 +384,47 @@
           }
         },
         {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 1865,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/entityculling.json",
+            "MD5": "31f63f9939fbf5fecdcfbd2297d44f30",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
           "id": "indigo-renderer.properties",
           "name": "indigo-renderer.properties",
           "type": "File",
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "14d9bb8f45ee8d8c002d398e96a61cd4",
+            "MD5": "061dc34f36704373c76220280156608f",
             "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "farmersdelight-client.json",
+          "name": "farmersdelight-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 263,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/farmersdelight-client.json",
+            "MD5": "11157b76957891e69d9a029d77df2210",
+            "path": "config/farmersdelight-client.json"
+          }
+        },
+        {
+          "id": "farmersdelight-common.json",
+          "name": "farmersdelight-common.json",
+          "type": "File",
+          "artifact": {
+            "size": 1688,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/farmersdelight-common.json",
+            "MD5": "a447b8eeca34bef4367c12ef023bae82",
+            "path": "config/farmersdelight-common.json"
           }
         },
         {
@@ -375,10 +454,32 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 546,
+            "size": 281,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/iris.properties",
-            "MD5": "7b42687360b17117f284cfc8a9c990c7",
+            "MD5": "0aafc3bbae6979b87153325dd68ffb4b",
             "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "libz.json5",
+          "name": "libz.json5",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/libz.json5",
+            "MD5": "f81b1bbe278078c0e11206827e9bec9a",
+            "path": "config/libz.json5"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/lithium.properties",
+            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
+            "path": "config/lithium.properties"
           }
         },
         {
@@ -410,7 +511,7 @@
           "artifact": {
             "size": 427,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-fingerprint.json",
-            "MD5": "3766625687ef396cf99cd71ad4988aa5",
+            "MD5": "d9521b57678dbbd9820aa04b35a36c79",
             "path": "config/sodium-fingerprint.json"
           }
         },
@@ -459,14 +560,58 @@
           }
         },
         {
-          "id": "waystones-common.toml",
-          "name": "waystones-common.toml",
+          "id": "category-volumes.properties",
+          "name": "category-volumes.properties",
           "type": "File",
           "artifact": {
-            "size": 5147,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/waystones-common.toml",
-            "MD5": "e4f094bdee383c3aed1af8a2fe098423",
-            "path": "config/waystones-common.toml"
+            "size": 46,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/category-volumes.properties",
+            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "path": "config/voicechat/category-volumes.properties"
+          }
+        },
+        {
+          "id": "player-volumes.properties",
+          "name": "player-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/player-volumes.properties",
+            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "path": "config/voicechat/player-volumes.properties"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1182,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4899,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-client.properties",
+            "MD5": "38b7e656912fed0e8e32a5906e0fc731",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2442,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-server.properties",
+            "MD5": "4af998736c212138766f3f2abd308676",
+            "path": "config/voicechat/voicechat-server.properties"
           }
         },
         {
