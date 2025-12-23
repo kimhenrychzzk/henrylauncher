@@ -291,6 +291,19 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.21.1-2.6.10@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5341121,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/voicechat-fabric-1.21.1-2.6.10.jar",
+            "MD5": "fac6e7c0c22374f526c73d6b8acbc64a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:25.2.10@jar",
           "name": "Xaero's Minimap",
           "type": "FabricMod",
