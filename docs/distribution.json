@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "TavernCraft-1.21.1",
+      "id": "RPGsever-1.21.1",
       "name": "⚔️ TavernCraft",
       "description": "🌍 모험이 기다리는 헨리의 TavernCraft!",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/rpg-icon.png",
@@ -288,19 +288,6 @@
             "size": 1297761,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.21.1-2.6.6@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5339396,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/voicechat-fabric-1.21.1-2.6.6.jar",
-            "MD5": "6363d48c9b45e914d23c0f12b0c395c9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
