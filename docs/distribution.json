@@ -692,6 +692,17 @@
           }
         },
         {
+          "id": "skin.zip",
+          "name": "skin.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1756932,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/resourcepacks/skin.zip",
+            "MD5": "0200abc93e5d5fd8ec61edfafff04672",
+            "path": "resourcepacks/skin.zip"
+          }
+        },
+        {
           "id": "BSL_v10.0.zip",
           "name": "BSL_v10.0.zip",
           "type": "File",
