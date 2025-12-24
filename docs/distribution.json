@@ -151,6 +151,19 @@
           }
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 163711,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/caramelChat-mc1.21.1-fabric-1.2.2.jar",
+            "MD5": "59c8ae912459442c192ff5537bf17f7a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
           "name": "Cloth Config v15",
           "type": "FabricMod",
