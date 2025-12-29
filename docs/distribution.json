@@ -727,14 +727,14 @@
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.6.1.zip",
-          "name": "ComplementaryReimagined_r5.6.1.zip",
+          "id": "ComplementaryUnbound_r5.6.1.zip",
+          "name": "ComplementaryUnbound_r5.6.1.zip",
           "type": "File",
           "artifact": {
-            "size": 500696,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
-            "MD5": "04c822b2da584e21745869190ac653e6",
-            "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+            "size": 500699,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "MD5": "3f83f81df2ad4608d830017425b45bac",
+            "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
         }
       ]
