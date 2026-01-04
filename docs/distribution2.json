@@ -1,0 +1,179 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "TavernCraftS2-1.20.1-forge",
+      "name": "⚔️ TavernCraft S2 ⚔️ ",
+      "description": "🌍 모험이 기다리는 헨리의 TavernCraft 시즌 2",
+      "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/rpg-icon2.png",
+      "version": "1.0.0",
+      "address": "헨리서버.메인.한국:25565",
+      "minecraftVersion": "1.20.1",
+      "mainServer": true,
+      "autoconnect": true,
+
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.20.1-47.2.20",
+          "name": "Forge 1.20.1",
+          "type": "Forge",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/docs/forge-1.20.1-47.2.20-installer.jar"
+          }
+        },
+
+        /* =========================
+           Forge 필수 모드
+        ========================= */
+
+        {
+          "id": "another_furniture",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.4.jar"
+          }
+        },
+        {
+          "id": "appleskin",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar"
+          }
+        },
+        {
+          "id": "architectury",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/architectury-9.2.14-forge.jar"
+          }
+        },
+        {
+          "id": "armourers_workshop",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-2.1.4.jar"
+          }
+        },
+        {
+          "id": "balm",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.37.jar"
+          }
+        },
+        {
+          "id": "cloth_config",
+          "name": "Cloth Config",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar"
+          }
+        },
+        {
+          "id": "collective",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/collective-1.20.1-8.13.jar"
+          }
+        },
+        {
+          "id": "farmersdelight",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar"
+          }
+        },
+        {
+          "id": "ferritecore",
+          "name": "FerriteCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar"
+          }
+        },
+        {
+          "id": "kotlinforforge",
+          "name": "Kotlin for Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar"
+          }
+        },
+        {
+          "id": "memoryleakfix",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar"
+          }
+        },
+        {
+          "id": "modernfix",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/modernfix-forge-5.25.2+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "starterkit",
+          "name": "Starter Kit",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/starterkit-1.20.1-7.4.jar"
+          }
+        },
+        {
+          "id": "travelersbackpack",
+          "name": "Traveler's Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.46.jar"
+          }
+        },
+        {
+          "id": "mythicmounts",
+          "name": "Mythic Mounts",
+          "type": "ForgeMod",
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/forgemods/required/mythicmounts-20.1-7.4.2-forge.jar"
+          }
+        },
+
+        /* =========================
+           쉐이더팩 (File)
+        ========================= */
+
+        {
+          "id": "BSL_v10.0.zip",
+          "name": "BSL_v10.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1121678,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/files/shaderpacks/BSL_v10.0.zip",
+            "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
+            "path": "shaderpacks/BSL_v10.0.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.6.1.zip",
+          "name": "ComplementaryUnbound_r5.6.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500699,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/TavernCraftS2-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "MD5": "3f83f81df2ad4608d830017425b45bac",
+            "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
