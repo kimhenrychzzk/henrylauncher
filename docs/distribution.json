@@ -111,6 +111,16 @@
           ]
         },
         {
+          "id": "com.starfish_studios:another_furniture:4.0.2@jar",
+          "name": "Another Furniture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2398841,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/another_furniture-fabric-4.0.2%20(1).jar",
+            "MD5": "205dc477171d01dbbf8dc6c72db8c9cd"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:3.0.6+mc1.21@jar",
           "name": "AppleSkin",
           "type": "FabricMod",
@@ -161,6 +171,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:cardinal-components:6.1.3@jar",
+          "name": "Cardinal Components API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 229645,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/cardinal-components-api-6.1.3%20(1).jar",
+            "MD5": "8febe13b1c2df1e90a6fa8b5de8521a4"
           }
         },
         {
@@ -304,6 +324,16 @@
           }
         },
         {
+          "id": "com.tiviacz:travelersbackpack:10.1.29@jar",
+          "name": "Traveler's Backpack",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1383190,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/travelersbackpack-fabric-1.21.1-10.1.29%20(1).jar",
+            "MD5": "34fe871239b261963d1118e55bc26119"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.21.1-2.6.10@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
@@ -322,7 +352,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1745107,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/xaerominimap-25.2.10.jar",
             "MD5": "73c845d833c030f1b38363b5d4252ff7"
           },
           "required": {
@@ -350,281 +380,6 @@
             "size": 1131541,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.8.1+1.21.1-fabric%20(1).jar",
             "MD5": "82e0aa325a523da33b643dcbbd42d1e6"
-          }
-        },
-        {
-          "id": "appleskin.json5",
-          "name": "appleskin.json5",
-          "type": "File",
-          "artifact": {
-            "size": 1327,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/appleskin.json5",
-            "MD5": "406b4584562fb60304a8adc824de0000",
-            "path": "config/appleskin.json5"
-          }
-        },
-        {
-          "id": "armourers_workshop-client.toml",
-          "name": "armourers_workshop-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 4887,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/armourers_workshop-client.toml",
-            "MD5": "6a2c8a41dcb1e7268440f42647814cdf",
-            "path": "config/armourers_workshop-client.toml"
-          }
-        },
-        {
-          "id": "armourers_workshop-common.toml",
-          "name": "armourers_workshop-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 5650,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/armourers_workshop-common.toml",
-            "MD5": "2a660d2c5679c13e02f8a26f537f6461",
-            "path": "config/armourers_workshop-common.toml"
-          }
-        },
-        {
-          "id": "collective.json5",
-          "name": "collective.json5",
-          "type": "File",
-          "artifact": {
-            "size": 827,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/collective.json5",
-            "MD5": "c1a6c344217a2164ca0db41f9d286d00",
-            "path": "config/collective.json5"
-          }
-        },
-        {
-          "id": "entityculling.json",
-          "name": "entityculling.json",
-          "type": "File",
-          "artifact": {
-            "size": 1865,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/entityculling.json",
-            "MD5": "31f63f9939fbf5fecdcfbd2297d44f30",
-            "path": "config/entityculling.json"
-          }
-        },
-        {
-          "id": "indigo-renderer.properties",
-          "name": "indigo-renderer.properties",
-          "type": "File",
-          "artifact": {
-            "size": 290,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "061dc34f36704373c76220280156608f",
-            "path": "config/fabric/indigo-renderer.properties"
-          }
-        },
-        {
-          "id": "farmersdelight-client.json",
-          "name": "farmersdelight-client.json",
-          "type": "File",
-          "artifact": {
-            "size": 263,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/farmersdelight-client.json",
-            "MD5": "11157b76957891e69d9a029d77df2210",
-            "path": "config/farmersdelight-client.json"
-          }
-        },
-        {
-          "id": "farmersdelight-common.json",
-          "name": "farmersdelight-common.json",
-          "type": "File",
-          "artifact": {
-            "size": 1688,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/farmersdelight-common.json",
-            "MD5": "a447b8eeca34bef4367c12ef023bae82",
-            "path": "config/farmersdelight-common.json"
-          }
-        },
-        {
-          "id": "ferritecore.mixin.properties",
-          "name": "ferritecore.mixin.properties",
-          "type": "File",
-          "artifact": {
-            "size": 1525,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/ferritecore.mixin.properties",
-            "MD5": "bf3e6be63e300b0290cfc849beb64ede",
-            "path": "config/ferritecore.mixin.properties"
-          }
-        },
-        {
-          "id": "libz.json5",
-          "name": "libz.json5",
-          "type": "File",
-          "artifact": {
-            "size": 73,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/libz.json5",
-            "MD5": "f81b1bbe278078c0e11206827e9bec9a",
-            "path": "config/libz.json5"
-          }
-        },
-        {
-          "id": "lithium.properties",
-          "name": "lithium.properties",
-          "type": "File",
-          "artifact": {
-            "size": 267,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/lithium.properties",
-            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
-            "path": "config/lithium.properties"
-          }
-        },
-        {
-          "id": "modernfix-mixins.properties",
-          "name": "modernfix-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 4087,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/modernfix-mixins.properties",
-            "MD5": "259d280fb63195be3a723ef3754dacf2",
-            "path": "config/modernfix-mixins.properties"
-          }
-        },
-        {
-          "id": "modmenu.json",
-          "name": "modmenu.json",
-          "type": "File",
-          "artifact": {
-            "size": 840,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/modmenu.json",
-            "MD5": "6f801fc101c146e1c993f05544858c34",
-            "path": "config/modmenu.json"
-          }
-        },
-        {
-          "id": "sodium-fingerprint.json",
-          "name": "sodium-fingerprint.json",
-          "type": "File",
-          "artifact": {
-            "size": 427,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-fingerprint.json",
-            "MD5": "d9521b57678dbbd9820aa04b35a36c79",
-            "path": "config/sodium-fingerprint.json"
-          }
-        },
-        {
-          "id": "sodium-mixins.properties",
-          "name": "sodium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 258,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-mixins.properties",
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
-            "path": "config/sodium-mixins.properties"
-          }
-        },
-        {
-          "id": "sodium-options.json",
-          "name": "sodium-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 686,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/sodium-options.json",
-            "MD5": "263174dc942d3e5438bb65bce9108488",
-            "path": "config/sodium-options.json"
-          }
-        },
-        {
-          "id": "transition.json",
-          "name": "transition.json",
-          "type": "File",
-          "artifact": {
-            "size": 62,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/transition.json",
-            "MD5": "939cbb1d75f242d47e2aa1a9d536a3e7",
-            "path": "config/transition.json"
-          }
-        },
-        {
-          "id": "trender.json",
-          "name": "trender.json",
-          "type": "File",
-          "artifact": {
-            "size": 47,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/trender.json",
-            "MD5": "c449ad0a8d190858ec253ed1bc75e05d",
-            "path": "config/trender.json"
-          }
-        },
-        {
-          "id": "xaerominimap-common.txt",
-          "name": "xaerominimap-common.txt",
-          "type": "File",
-          "artifact": {
-            "size": 145,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaerominimap-common.txt",
-            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
-            "path": "config/xaerominimap-common.txt"
-          }
-        },
-        {
-          "id": "xaerominimap.txt",
-          "name": "xaerominimap.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3640,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaerominimap.txt",
-            "MD5": "34daf6ed281f10d3aa9d1f916c51d7dc",
-            "path": "config/xaerominimap.txt"
-          }
-        },
-        {
-          "id": "xaerominimap_entities.json",
-          "name": "xaerominimap_entities.json",
-          "type": "File",
-          "artifact": {
-            "size": 5531,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaerominimap_entities.json",
-            "MD5": "9c08ddf57ca870f128b7671da8fbd0f7",
-            "path": "config/xaerominimap_entities.json"
-          }
-        },
-        {
-          "id": "xaeropatreon.txt",
-          "name": "xaeropatreon.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaeropatreon.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/xaeropatreon.txt"
-          }
-        },
-        {
-          "id": "xaeroworldmap-common.txt",
-          "name": "xaeroworldmap-common.txt",
-          "type": "File",
-          "artifact": {
-            "size": 120,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaeroworldmap-common.txt",
-            "MD5": "5a2200d083554257d61384f2c486162b",
-            "path": "config/xaeroworldmap-common.txt"
-          }
-        },
-        {
-          "id": "xaeroworldmap.txt",
-          "name": "xaeroworldmap.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1218,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/xaeroworldmap.txt",
-            "MD5": "61668053aa4dc58507cde11ed376502c",
-            "path": "config/xaeroworldmap.txt"
-          }
-        },
-        {
-          "id": "yacl.json5",
-          "name": "yacl.json5",
-          "type": "File",
-          "artifact": {
-            "size": 250,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/yacl.json5",
-            "MD5": "9378f7cef65c5208431350700cf83a11",
-            "path": "config/yacl.json5"
           }
         },
         {
