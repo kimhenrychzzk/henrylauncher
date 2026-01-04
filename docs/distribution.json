@@ -573,61 +573,6 @@
           }
         },
         {
-          "id": "category-volumes.properties",
-          "name": "category-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 46,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/category-volumes.properties",
-            "MD5": "47731f53ffef4a8a57c766a8091a5651",
-            "path": "config/voicechat/category-volumes.properties"
-          }
-        },
-        {
-          "id": "player-volumes.properties",
-          "name": "player-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 44,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/player-volumes.properties",
-            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
-            "path": "config/voicechat/player-volumes.properties"
-          }
-        },
-        {
-          "id": "translations.properties",
-          "name": "translations.properties",
-          "type": "File",
-          "artifact": {
-            "size": 1182,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/translations.properties",
-            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
-            "path": "config/voicechat/translations.properties"
-          }
-        },
-        {
-          "id": "voicechat-client.properties",
-          "name": "voicechat-client.properties",
-          "type": "File",
-          "artifact": {
-            "size": 4899,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-client.properties",
-            "MD5": "38b7e656912fed0e8e32a5906e0fc731",
-            "path": "config/voicechat/voicechat-client.properties"
-          }
-        },
-        {
-          "id": "voicechat-server.properties",
-          "name": "voicechat-server.properties",
-          "type": "File",
-          "artifact": {
-            "size": 2442,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/voicechat/voicechat-server.properties",
-            "MD5": "4af998736c212138766f3f2abd308676",
-            "path": "config/voicechat/voicechat-server.properties"
-          }
-        },
-        {
           "id": "xaerominimap-common.txt",
           "name": "xaerominimap-common.txt",
           "type": "File",
