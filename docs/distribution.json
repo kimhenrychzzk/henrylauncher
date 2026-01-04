@@ -452,28 +452,6 @@
           }
         },
         {
-          "id": "iris-excluded.json",
-          "name": "iris-excluded.json",
-          "type": "File",
-          "artifact": {
-            "size": 31,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/iris-excluded.json",
-            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
-            "path": "config/iris-excluded.json"
-          }
-        },
-        {
-          "id": "iris.properties",
-          "name": "iris.properties",
-          "type": "File",
-          "artifact": {
-            "size": 281,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/files/config/iris.properties",
-            "MD5": "0aafc3bbae6979b87153325dd68ffb4b",
-            "path": "config/iris.properties"
-          }
-        },
-        {
           "id": "libz.json5",
           "name": "libz.json5",
           "type": "File",
