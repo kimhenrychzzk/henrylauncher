@@ -264,6 +264,19 @@
           }
         },
         {
+          "id": "mezz.jei:jei:19.27.0.340@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1561711,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.27.0.340.jar",
+            "MD5": "d64d528f9e689ce83421ab022e41c7ac"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.steinborn.krypton.mod.shared:krypton:0.2.8@jar",
           "name": "Krypton",
           "type": "FabricMod",
