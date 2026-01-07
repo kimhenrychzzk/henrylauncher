@@ -111,6 +111,26 @@
           ]
         },
         {
+          "id": "me.itzme1on.alcocraftplus.fabric.core:alcocraftplus:2.1.0@jar",
+          "name": "AlcoCraft+",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 283741,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/alcocraftplus-1.21.1-2.1.0-fabric.jar",
+            "MD5": "ec37ed753c19b4f3a9c99680c2abf94c"
+          }
+        },
+        {
+          "id": "com.shiftthedev:alexandria:1.0.3.2@jar",
+          "name": "Alexandria",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 68944,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/Alexandria-1.0.3.2+1.21.1-fabric.jar",
+            "MD5": "6227f6d221f0255f0fc978f3e663f640"
+          }
+        },
+        {
           "id": "com.starfish_studios:another_furniture:4.0.2@jar",
           "name": "Another Furniture",
           "type": "FabricMod",
@@ -337,6 +357,36 @@
           }
         },
         {
+          "id": "com.scouter:oceansdelight:fdrf-fabric-1.0.2-1.21@jar",
+          "name": "Ocean's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 86464,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/oceansdelight-fdrf-fabric-1.0.2-1.21.jar",
+            "MD5": "cc9bc30d635f5e3b1ffd84109f1d8a72"
+          }
+        },
+        {
+          "id": "com.shiftthedev:pickablepets:2.0.3.1@jar",
+          "name": "Pickable Pets",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1540151,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/PickablePets-2.0.3.1+1.21.1-fabric.jar",
+            "MD5": "876dde385ac0537272d20ae7b7cfd646"
+          }
+        },
+        {
+          "id": "com.phantomwing:rusticdelight:1.4.2@jar",
+          "name": "Rustic Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 376942,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/rusticdelight-fabric-1.21.1-1.4.2.jar",
+            "MD5": "794be2975d7ffafe47f904325bc2180f"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -364,16 +414,6 @@
             "size": 2996065,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
             "MD5": "0fcc53d829b59aea00440c6bed12c11d"
-          }
-        },
-        {
-          "id": "com.tiviacz:travelersbackpack:10.1.29@jar",
-          "name": "Traveler's Backpack",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1383190,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/travelersbackpack-fabric-1.21.1-10.1.29%20(1).jar",
-            "MD5": "34fe871239b261963d1118e55bc26119"
           }
         },
         {
