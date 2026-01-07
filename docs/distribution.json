@@ -254,6 +254,16 @@
           }
         },
         {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.6@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 633065,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric%20(1).jar",
+            "MD5": "eba1a7f9d9976e983a2b9eb5e915e087"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -354,16 +364,6 @@
             "size": 2996065,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
             "MD5": "0fcc53d829b59aea00440c6bed12c11d"
-          }
-        },
-        {
-          "id": "com.tiviacz:travelersbackpack:10.1.29@jar",
-          "name": "Traveler's Backpack",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1383190,
-            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/travelersbackpack-fabric-1.21.1-10.1.29%20(1).jar",
-            "MD5": "34fe871239b261963d1118e55bc26119"
           }
         },
         {
