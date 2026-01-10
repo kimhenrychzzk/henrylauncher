@@ -430,6 +430,16 @@
           }
         },
         {
+          "id": "com.corosus.watut.loader:watut:1.21.0-1.2.7@jar",
+          "name": "What Are They Up To",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 839492,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/watut-fabric-1.21.0-1.2.7.jar",
+            "MD5": "00d9b67556a85016edab41e05443a5a9"
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:25.2.10@jar",
           "name": "Xaero's Minimap",
           "type": "FabricMod",
