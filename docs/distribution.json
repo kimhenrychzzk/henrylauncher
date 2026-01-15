@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "RPGsever-1.21.1",
-      "name": "⚔️ TavernCraft ⚔️",
-      "description": "🌍 모험이 기다리는 헨리의 TavernCraft!",
+      "id": "Taverncraft S2",
+      "name": "⚔️ TavernCraft S2 ⚔️",
+      "description": "🌍 모험이 기다리는 TavernCraftS2!",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/rpg-icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
@@ -377,6 +377,16 @@
           }
         },
         {
+          "id": "virtuoel.pehkui:pehkui:3.8.3+1.14.4-1.21@jar",
+          "name": "Pehkui",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 555041,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/Pehkui-3.8.3+1.14.4-1.21.jar",
+            "MD5": "c28dbac324e13836c2c15e47bfcd9e45"
+          }
+        },
+        {
           "id": "com.shiftthedev:pickablepets:2.0.3.1@jar",
           "name": "Pickable Pets",
           "type": "FabricMod",
@@ -394,6 +404,16 @@
             "size": 376942,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/rusticdelight-fabric-1.21.1-1.4.2.jar",
             "MD5": "794be2975d7ffafe47f904325bc2180f"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:sit:1.21-28@jar",
+          "name": "Sit",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 64552,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/sit-1.21-28.jar",
+            "MD5": "4604ae0d73e28bde8eb6f9de77d6f4c4"
           }
         },
         {
