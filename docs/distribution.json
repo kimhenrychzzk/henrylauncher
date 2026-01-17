@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "Taverncraft S2",
+      "id": "TavernCraftS2",
       "name": "⚔️ TavernCraft S2 ⚔️",
-      "description": "🌍 모험이 기다리는 TavernCraft S2!",
+      "description": "🌍 모험이 기다리는 TavernCraft S2! ",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
@@ -364,6 +364,19 @@
             "size": 973066,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/modmenu-11.0.3%20(1).jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.11.1@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1923320,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
+            "MD5": "799f4762ad935814414010e5124c9859"
+          },
+          "required": {
+            "value": false
           }
         },
         {
