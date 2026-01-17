@@ -10,7 +10,7 @@
     {
       "id": "Taverncraft S2",
       "name": "⚔️ TavernCraft S2 ⚔️",
-      "description": "🌍 모험이 기다리는 TavernCraftS2!",
+      "description": "🌍 모험이 기다리는 TavernCraft S2!",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
@@ -503,6 +503,19 @@
             "size": 1131541,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.8.1+1.21.1-fabric%20(1).jar",
             "MD5": "82e0aa325a523da33b643dcbbd42d1e6"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.15.1+1.21.1@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 874396,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/zoomify-2.15.1+1.21.1.jar",
+            "MD5": "6acad20ba58f98b832935a5c74566416"
+          },
+          "required": {
+            "value": false
           }
         },
         {
