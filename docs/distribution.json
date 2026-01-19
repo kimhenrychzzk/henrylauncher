@@ -181,6 +181,19 @@
           }
         },
         {
+          "id": "generated.fabricmod:fullscreenfix:2.2.1@jar",
+          "name": "Borderless Fullscreen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 106826,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/optionalon/BorderlessFullscreen-v2.2.1-mc1.21.jar",
+            "MD5": "053a2df9d6563598880ee1fe95bb5cc7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
           "name": "CaramelChat",
           "type": "FabricMod",
@@ -261,6 +274,16 @@
             "size": 7618852,
             "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
             "MD5": "964103287b72e606de845420d1a8cc57"
+          }
+        },
+        {
+          "id": "fr.rakambda:fallingtree:1.21.1.11@jar",
+          "name": "FallingTree",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 496356,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/FallingTree-1.21.1-1.21.1.11.jar",
+            "MD5": "7318bdea54e4c69c1c90650b30fc4bde"
           }
         },
         {
