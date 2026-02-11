@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "TavernCraftS2",
+      "id": "RPGsever-1.21.1",
       "name": "⚔️ TavernCraft S2 ⚔️",
-      "description": "🌍 모험이 기다리는 TavernCraft S2! ",
+      "description": "🌍 모험이 기다리는 TavernCraft S2 🌍 ",
       "icon": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/repo/icon.png",
       "version": "1.0.0",
       "address": "헨리서버.메인.한국:25565",
@@ -191,6 +191,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "umpaz.brewinandchewin:brewinandchewin:4.4.2@jar",
+          "name": "Brewin' And Chewin'",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1544270,
+            "url": "https://raw.githubusercontent.com/kimhenrychzzk/henrylauncher/main/repo/servers/RPGsever-1.21.1/fabricmods/required/BrewinAndChewin-fabric-4.4.2+1.21.1.jar",
+            "MD5": "88d9d881fc043e3c39eb25a2daddcf65"
           }
         },
         {
